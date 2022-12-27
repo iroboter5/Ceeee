@@ -1,0 +1,10 @@
+pyrogram
+tgcrypto
+bs4
+requests
+pytz
+tenacity
+ping3
+nmap
+tcping
+pyping
