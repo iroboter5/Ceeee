@@ -107,7 +107,7 @@ def commands(client, message):
     username = message.from_user.username
 
     if '/start' in text:
-        UserCollection[username] =
+        
         msg_start = f'🔰Bienvenido {username}'
         message.reply(msg_start)
         
