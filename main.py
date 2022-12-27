@@ -16,10 +16,10 @@ app = Client(
 "bot",
 api_id="12729863", #Ingresa tu api_id
 api_hash="ebb09446c3def9fc6c69f1a10e1252a0", #Ingresa tu api_hash
-bot_token="5669210869:AAGEQUwFhE1r7qMTm5XkePDogOpHcrPgqzU") #Ingresa el token de tu bot
+bot_token="5965546694:AAE-VfOcsFkuCe_CA7A3rpmYh2OQFleDYDk") #Ingresa el token de tu bot
  
 ####Configuración de todos los usuarios###$
-UserCollection = {}
+UserCollection = {'JAGB2021'}
 
 sec = 0
 def progress_dl(current, total, msg, app):
